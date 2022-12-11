@@ -20,9 +20,13 @@ Bay area.this dataset required some data wrangling in order to make it tidy berf
 
 ## Key Insights for Presentation
 
->For this part of the project i will choose these two threads to polish up for the presentation :
+
+For this part of the project i will choose these two threads to polish up for the presentation :
+
 1- Most rides were between 5 to 10 minutes.
+
 2- Difference between average trip duration for customers and subscribers
+
 3- The average trip duration for the customers and subscribers ride over all the week days.
 
 
